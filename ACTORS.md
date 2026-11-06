@@ -1,7 +1,7 @@
 <!-- NONO-ACTOR-DIRECTORY:1 -->
 # 演员姓名目录
 
-2,018 个演员姓名 · 2,018 张头像 · 1 个分享集合
+2,030 个演员姓名 · 2,129 张头像 · 1 个分享集合
 
 按演员姓名排序，选择姓名所在范围，再点击分享编号查看图片。不同分享编号及同名头像分别保留。
 
@@ -18,9 +18,9 @@
 | [第 9 页](directory/0009.md) | 透美かなた → 小野寺梨紗 |
 | [第 10 页](directory/0010.md) | 小野寺舞 → 桜井彩 |
 | [第 11 页](directory/0011.md) | 桜井あゆ → 長澤えりな |
-| [第 12 页](directory/0012.md) | 真白ふわり → Clea Gaultier |
-| [第 13 页](directory/0013.md) | Clemence Audiard → あやの沙希 |
-| [第 14 页](directory/0014.md) | あやみ → わか菜ほの |
+| [第 12 页](directory/0012.md) | 真白ふわり → Christy White |
+| [第 13 页](directory/0013.md) | Clara Mia → Violet Voss |
+| [第 14 页](directory/0014.md) | Vixi Rafi → わか菜ほの |
 
 [返回仓库说明](README.md)
 
