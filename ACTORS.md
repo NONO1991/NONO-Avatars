@@ -1,7 +1,7 @@
 <!-- NONO-ACTOR-DIRECTORY:1 -->
 # 演员姓名目录
 
-2,037 个演员姓名 · 2,184 张头像 · 1 个分享集合
+2,038 个演员姓名 · 2,185 张头像 · 1 个分享集合
 
 按演员姓名排序，选择姓名所在范围，再点击分享编号查看图片。不同分享编号及同名头像分别保留。
 
@@ -19,8 +19,8 @@
 | [第 10 页](directory/0010.md) | 小野寺舞 → 桜井彩 |
 | [第 11 页](directory/0011.md) | 桜井あゆ → 長澤えりな |
 | [第 12 页](directory/0012.md) | 真白ふわり → Cherry Kiss |
-| [第 13 页](directory/0013.md) | Chloe Foxxe → Tiny Lu |
-| [第 14 页](directory/0014.md) | Valentina Nappi → わか菜ほの |
+| [第 13 页](directory/0013.md) | Chloe Foxxe → Tabatha Lust |
+| [第 14 页](directory/0014.md) | Tiny Lu → わか菜ほの |
 
 [返回仓库说明](README.md)
 
