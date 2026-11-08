@@ -1,7 +1,7 @@
 <!-- NONO-ACTOR-DIRECTORY:1 -->
 # 演员姓名目录
 
-2,039 个演员姓名 · 2,186 张头像 · 1 个分享集合
+2,041 个演员姓名 · 2,188 张头像 · 1 个分享集合
 
 按演员姓名排序，选择姓名所在范围，再点击分享编号查看图片。不同分享编号及同名头像分别保留。
 
@@ -19,8 +19,8 @@
 | [第 10 页](directory/0010.md) | 小野寺梨紗 → 桜花 |
 | [第 11 页](directory/0011.md) | 桜井彩 → 長瀬麻美 |
 | [第 12 页](directory/0012.md) | 長澤えりな → Cherie Deville |
-| [第 13 页](directory/0013.md) | Cherry Kiss → Sybil Kailena |
-| [第 14 页](directory/0014.md) | Tabatha Lust → わか菜ほの |
+| [第 13 页](directory/0013.md) | Cherry Kiss → Sybil |
+| [第 14 页](directory/0014.md) | Sybil Kailena → わか菜ほの |
 
 [返回仓库说明](README.md)
 
