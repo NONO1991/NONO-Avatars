@@ -13,11 +13,11 @@
 | [第 4 页](directory/0004.md) | 花撫あや → 瀬戸すみれ |
 | [第 5 页](directory/0005.md) | 瀬名未来 → 茉宮なぎ |
 | [第 6 页](directory/0006.md) | 茉莉ひめか → 若杉心南 |
-| [第 7 页](directory/0007.md) | 若月まりあ → 枢木あおい |
-| [第 8 页](directory/0008.md) | 枢木みかん → 桐香ゆうり |
-| [第 9 页](directory/0009.md) | 桐夜ゆうは → 小野紗里奈 |
-| [第 10 页](directory/0010.md) | 小野寺梨紗 → 桜花 |
-| [第 11 页](directory/0011.md) | 桜井彩 → 長瀬麻美 |
+| [第 7 页](directory/0007.md) | 若月まりあ → 枢木みかん |
+| [第 8 页](directory/0008.md) | 双葉いろは → 桐夜ゆうは |
+| [第 9 页](directory/0009.md) | 透美かなた → 小野寺梨紗 |
+| [第 10 页](directory/0010.md) | 小野寺舞 → 桜井彩 |
+| [第 11 页](directory/0011.md) | 桜井あゆ → 長瀬麻美 |
 | [第 12 页](directory/0012.md) | 長澤えりな → Cherie Deville |
 | [第 13 页](directory/0013.md) | Cherry Kiss → Sybil |
 | [第 14 页](directory/0014.md) | Sybil Kailena → わか菜ほの |
