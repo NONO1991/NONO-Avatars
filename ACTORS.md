@@ -15,10 +15,10 @@
 | [第 6 页](directory/0006.md) | 茉白 → 若槻めぐみ |
 | [第 7 页](directory/0007.md) | 若林ゆりな → 釈アリス |
 | [第 8 页](directory/0008.md) | 守屋よしの → 桐谷すずね |
-| [第 9 页](directory/0009.md) | 桐谷なお → 小野坂ゆいか |
-| [第 10 页](directory/0010.md) | 小野六花 → 音月みり |
-| [第 11 页](directory/0011.md) | 英しずな → 長谷川夕奈 |
-| [第 12 页](directory/0012.md) | 長谷川ミク → Candie Luciani |
+| [第 9 页](directory/0009.md) | 桐谷なお → 小宵こなん |
+| [第 10 页](directory/0010.md) | 小野坂ゆいか → 音羽美鈴 |
+| [第 11 页](directory/0011.md) | 音月みり → 長嶋沙央梨 |
+| [第 12 页](directory/0012.md) | 長谷川夕奈 → Candie Luciani |
 | [第 13 页](directory/0013.md) | Catherine Knight → Simon Kitty |
 | [第 14 页](directory/0014.md) | Sky Wonderland → わか菜ほの |
 
