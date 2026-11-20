@@ -1,7 +1,7 @@
 <!-- NONO-ACTOR-DIRECTORY:1 -->
 # 演员姓名目录
 
-2,046 个演员姓名 · 2,193 张头像 · 1 个分享集合
+2,048 个演员姓名 · 2,195 张头像 · 1 个分享集合
 
 按演员姓名排序，选择姓名所在范围，再点击分享编号查看图片。不同分享编号及同名头像分别保留。
 
@@ -19,8 +19,8 @@
 | [第 10 页](directory/0010.md) | 小野坂ゆいか → 音羽美鈴 |
 | [第 11 页](directory/0011.md) | 音月みり → 長嶋沙央梨 |
 | [第 12 页](directory/0012.md) | 長谷川夕奈 → Candie Luciani |
-| [第 13 页](directory/0013.md) | Catherine Knight → Simon Kitty |
-| [第 14 页](directory/0014.md) | Sky Wonderland → わか菜ほの |
+| [第 13 页](directory/0013.md) | Catherine Knight → Shinaryen Rean |
+| [第 14 页](directory/0014.md) | Sia Siberia → わか菜ほの |
 
 [返回仓库说明](README.md)
 
