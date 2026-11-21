@@ -1,7 +1,7 @@
 <!-- NONO-ACTOR-DIRECTORY:1 -->
 # 演员姓名目录
 
-2,053 个演员姓名 · 2,200 张头像 · 1 个分享集合
+2,054 个演员姓名 · 2,201 张头像 · 1 个分享集合
 
 按演员姓名排序，选择姓名所在范围，再点击分享编号查看图片。不同分享编号及同名头像分别保留。
 
@@ -19,8 +19,8 @@
 | [第 10 页](directory/0010.md) | 小松杏 → 音海里奈 |
 | [第 11 页](directory/0011.md) | 音琴るい → 斎藤まりな |
 | [第 12 页](directory/0012.md) | 斎藤ミオリ → Britt Blair |
-| [第 13 页](directory/0013.md) | Bunny Colby → Scarlett Jones |
-| [第 14 页](directory/0014.md) | Shalina Devine → わか菜ほの |
+| [第 13 页](directory/0013.md) | Bunny Colby → Scarlet Skies |
+| [第 14 页](directory/0014.md) | Scarlett Jones → わか菜ほの |
 
 [返回仓库说明](README.md)
 
