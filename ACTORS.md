@@ -1,26 +1,26 @@
 <!-- NONO-ACTOR-DIRECTORY:1 -->
 # 演员姓名目录
 
-2,060 个演员姓名 · 2,207 张头像 · 1 个分享集合
+2,062 个演员姓名 · 2,209 张头像 · 1 个分享集合
 
 按演员姓名排序，选择姓名所在范围，再点击分享编号查看图片。不同分享编号及同名头像分别保留。
 
 | 分页 | 姓名范围 |
 | --- | --- |
-| [第 1 页](directory/0001.md) | 阿部乃みく → 彩葉みおり |
-| [第 2 页](directory/0002.md) | 彩葉ゆな → 二宮沙樹 |
-| [第 3 页](directory/0003.md) | 二宮ナナ → 胡桃さくら |
-| [第 4 页](directory/0004.md) | 琥珀やや → 葵つかさ |
-| [第 5 页](directory/0005.md) | 葵ぶるま → 明日見未来 |
-| [第 6 页](directory/0006.md) | 明日美かんな → 如月りいさ |
-| [第 7 页](directory/0007.md) | 濡田まな → 市川詩織 |
-| [第 8 页](directory/0008.md) | 市川まさみ → 田野憂 |
-| [第 9 页](directory/0009.md) | 田中瞳 → 小日向まい |
-| [第 10 页](directory/0010.md) | 小日向みゆう → 乙白さやか |
-| [第 11 页](directory/0011.md) | 乙都さきの → 早田菜々子 |
-| [第 12 页](directory/0012.md) | 沢北あんな → Bella Spark |
-| [第 13 页](directory/0013.md) | Berta Lusty → RUU |
-| [第 14 页](directory/0014.md) | Sandra Lyd → わか菜ほの |
+| [第 1 页](directory/0001.md) | 阿部乃みく → 彩奈リナ |
+| [第 2 页](directory/0002.md) | 彩葉みおり → 二代目乱田舞 |
+| [第 3 页](directory/0003.md) | 二宮和香 → 虹色ぐみ |
+| [第 4 页](directory/0004.md) | 後藤リサ → 葵いぶき |
+| [第 5 页](directory/0005.md) | 葵こはる → 明里つむぎ |
+| [第 6 页](directory/0006.md) | 明日花キララ → 如月夏希 |
+| [第 7 页](directory/0007.md) | 如月ゆの → 矢埜愛茉 |
+| [第 8 页](directory/0008.md) | 市川愛茉 → 田村香奈 |
+| [第 9 页](directory/0009.md) | 田所百合 → 小泉真希 |
+| [第 10 页](directory/0010.md) | 小泉なぎさ → 衣都つむぎ |
+| [第 11 页](directory/0011.md) | 依本しおり → 早川ひかり |
+| [第 12 页](directory/0012.md) | 早瀬ありす → Barbie Feels |
+| [第 13 页](directory/0013.md) | Bella Mur → Rissa May |
+| [第 14 页](directory/0014.md) | Rose Carter → わか菜ほの |
 
 [返回仓库说明](README.md)
 
